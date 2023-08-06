@@ -3,7 +3,7 @@
 The Dataset that is used for credit card fraud detection is derived from the Kaggle.
 
 ### Screenshot
-![image](https://github.com/AmandeepkaurCSE/Netflix-Report/assets/64351796/b9ceb871-3249-41a5-a4b6-24118b5a3a8e)
+![Screenshot (146)](https://github.com/AmandeepkaurCSE/Netflix-Report/assets/64351796/e952f144-cdef-4fed-b0ce-1d215df7b8a5)
 ![Screenshot (147)](https://github.com/AmandeepkaurCSE/Netflix-Report/assets/64351796/f3c24764-9c71-40ba-ba76-ddc319f3376b)
 ![Screenshot (148)](https://github.com/AmandeepkaurCSE/Netflix-Report/assets/64351796/1790df38-9221-4169-b1b5-1e6e05ebb721)
 
